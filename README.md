@@ -6,11 +6,11 @@ Génération du blog en vadrouille en ![Latex](latex.png)
 ### Incredible India !
 
 1.1 Début du voyage  
-1.2 Ona nos exams!!  
+1.2 On a nos exams!!  
 1.3 Arrivée en Inde  
 1.4 Des indiens dans la ville  
-1.5 Five fingers,not the same  
-1.6 Arrivée a Jaipur  
+1.5 Five fingers, not the same  
+1.6 Arrivée à Jaipur  
 1.7 La vie en Inde  
 1.8 Journées zen  
 1.9 Descente vers Udaipur  
@@ -34,7 +34,7 @@ Génération du blog en vadrouille en ![Latex](latex.png)
 2.13 Phuket  
 2.14 Bangkok  
 2.15 Kanchanaburi  
-2.16 ChiangMai  
+2.16 Chiang Mai  
 2.17 Pai                          
 2.18 Fiche du Laos  
 2.19 Mekong  
@@ -53,11 +53,11 @@ Génération du blog en vadrouille en ![Latex](latex.png)
 4.4 Une boucle du coté vert  
 
 ### Philippines et Bali  
-5.1 Startedagain  
+5.1 Started again  
 5.2 Palawan  
 5.3 Luzon  
 5.4 Les fêtes à Bali  
 5.5 Bali express  
 
 ### La suite balinaise, que fait-on ?  
-6.1 Quelquesnouvelles  227
+6.1 Quelques nouvelles  227
