@@ -60,4 +60,4 @@ Génération du blog en vadrouille en ![Latex](latex.png)
 5.5 Bali express  
 
 ### La suite balinaise, que fait-on ?  
-6.1 Quelques nouvelles  227
+6.1 Quelques nouvelles
