@@ -12,6 +12,7 @@
 \usepackage{dialogue}
 \usepackage{tabularx}
 \usepackage{lettrine}
+\usepackage{setspace}
 
 
 \setlength{\parindent}{1em}
@@ -26,9 +27,13 @@
 
 \maketitle
 
+\begin{spacing}{1}
 \tableofcontents
 
 \mainmatter
+
+\chapter{Introduction}
+\input{articles/Intro.tex}
 
 \chapter{Incredible India !}
 \input{articles/Debut-du-voyage.tex}
@@ -88,6 +93,8 @@
 \chapter{La suite balinaise, que fait-on ?}
 \input{articles/Quelques-nouvelles.tex}
 
+
+\end{spacing}
 \backmatter
 
 \end{document}
