@@ -5,18 +5,18 @@ Génération du blog en vadrouille en ![Latex](latex.png)
 
 ### Incredible India !
 
-1.1 [Début du voyage](/articles/Debut-du-voyage.tex)
+1.1 [Début du voyage](/articles/Debut-du-voyage.tex)  
 1.2 [On a nos exams!!](/articles/On-a-nos-exams.tex)  
-1.3 [Arrivée en Inde](/articles/Arrivee-en-inde)
-1.4 [Des indiens dans la ville](/articles/Des-indiens-dans-la-ville.tex)
-1.5 [Five fingers, not the same](/articles/Five-fingers-not-the-same.tex)
-1.6 [Arrivée à Jaipur](/articles/Arrivee-a-jaipur.tex)
-1.7 [La vie en Inde](/articles/La-vie-en-inde.tex)
-1.8 [Journées zen](/articles/Journees-zen.tex)
-1.9 [Descente vers Udaipur](/articles/Descente-vers-udaipur.tex.tex)
-1.10 [Octopussy](/articles/Octopussy.tex)
-1.11 [Il commence à faire chaud](/articles/Il-commence-a-faire-chaud)
-1.12 [Sniff](/articles/Sniff.tex)
+1.3 [Arrivée en Inde](/articles/Arrivee-en-inde)  
+1.4 [Des indiens dans la ville](/articles/Des-indiens-dans-la-ville.tex)  
+1.5 [Five fingers, not the same](/articles/Five-fingers-not-the-same.tex)  
+1.6 [Arrivée à Jaipur](/articles/Arrivee-a-jaipur.tex)  
+1.7 [La vie en Inde](/articles/La-vie-en-inde.tex)  
+1.8 [Journées zen](/articles/Journees-zen.tex)  
+1.9 [Descente vers Udaipur](/articles/Descente-vers-udaipur.tex.tex)  
+1.10 [Octopussy](/articles/Octopussy.tex)  
+1.11 [Il commence à faire chaud](/articles/Il-commence-a-faire-chaud)  
+1.12 [Sniff](/articles/Sniff.tex)  
 
 ### La vie curieuse avant la vie active  
 2.1 C’est bientôt reparti  
