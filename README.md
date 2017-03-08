@@ -32,7 +32,7 @@ Génération du blog en vadrouille en ![Latex](latex.png)
   12. [Fiche de la Thailande](/articles/Fiche-de-la-thailande.tex)
   13. [Phuket](/articles/Phuket.tex)
   14. [Bangkok](/articles/Bangkok.tex)
-  15. [Kanchanaburi](/articles/Kanchanabur.tex)
+  15. [Kanchanaburi](/articles/Kanchanaburi.tex)
   16. [Chiang Mai](/articles/Chiang-mai.tex)
   17. [Pai](/articles/Pai.tex)
   18. [Fiche du Laos](/articles/Fiche-du-laos.tex)
@@ -48,7 +48,7 @@ Génération du blog en vadrouille en ![Latex](latex.png)
 4. Madagascar  
   1. [Vous êtes prêts?](/articles/Vous-etes-prets.tex)
   2. [Salut Vazaha](/articles/Salut-vazaha.tex)
-  3. [Chemins du sud](/articles/Chemis-du-sud.tex)
+  3. [Chemins du sud](/articles/Chemins-du-sud.tex)
   4. [Une boucle du coté vert](/articles/Une-boucle-du-cote-vert.tex)
 
 5. Philippines et Bali  
@@ -59,4 +59,4 @@ Génération du blog en vadrouille en ![Latex](latex.png)
   5. [Bali express](/articles/Bali-express.tex)
 
 6. La suite balinaise, que fait-on ?  
-  1 [Quelques nouvelles](/articles/Quelques-nouvelles.tex)
+  1. [Quelques nouvelles](/articles/Quelques-nouvelles.tex)
